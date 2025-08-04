@@ -1,3 +1,4 @@
 fisco-bcos/BcosGatewayService-linux-x86_64.tgz filter=lfs diff=lfs merge=lfs -text
 fisco-bcos/BcosNodeService-linux-x86_64.tgz filter=lfs diff=lfs merge=lfs -text
 fisco-bcos/BcosRpcService-linux-x86_64.tgz filter=lfs diff=lfs merge=lfs -text
+fisco-bcos/FISCO-BCOS-2022efd07409e19e02425edd10d2c3487150499b.zip filter=lfs diff=lfs merge=lfs -text
